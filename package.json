@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nguyenquy0710/npm.pkg.demo/issues"
   },
-  "homepage": "https://github.com/nguyenquy0710/npm.pkg.demo#readme"
+  "homepage": "https://github.com/nguyenquy0710/npm.pkg.demo#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
